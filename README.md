@@ -2,21 +2,6 @@
 
 Bu proje HTML, CSS ve Boostrap kullanılarak oluşturulmuş teknoloji site tasarımı uygulamasıdır. 
 
-
-
-<h2>Projede Olan Özellikler</h2>
-<ul>
-<li>.</li>
-<li>.</li>  
-<li>.</li>  
-<li>.</li>  
-<li></li>    
-<li></li>    
-</ul>
-
-
-
-
 <h2> Harici Kullanımlar</h2>
 HTML,CSS ve Boostrap özellikleri kullanıldı.
 
